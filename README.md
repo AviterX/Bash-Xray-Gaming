@@ -40,7 +40,7 @@ chmod +x install_xray_gaming_optimized.sh
 ./install_xray_gaming_optimized.sh
 ```
 
-
+📎 **Note:** You will need to generate a UUID manually. 👉 Get your UUID from [uuidgenerator.net](https://www.uuidgenerator.net/)
 
 ## 🛠️ Usage
 
