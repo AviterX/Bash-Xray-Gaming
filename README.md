@@ -29,15 +29,15 @@ sudo -s
 ```
 
 ```bash
-wget -O install_xray_gaming_optimized.sh "https://raw.githubusercontent.com/AviterX/Bash-Xray-Gaming/refs/heads/main/install_xray_gaming_optimized.sh"
+wget -O install_xray_gaming_optimized.sh "https://raw.githubusercontent.com/AviterX/Bash-Xray-Gaming/refs/heads/main/gaming_xray_install.sh"
 ```
 
 ```bash
-chmod +x install_xray_gaming_optimized.sh
+chmod +x gaming_xray_install.sh
 ```
 
 ```bash
-./install_xray_gaming_optimized.sh
+./gaming_xray_install.sh
 ```
 
 📎 **Note:** You will need to generate a UUID manually. 👉 Get your UUID from [uuidgenerator.net](https://www.uuidgenerator.net/)
