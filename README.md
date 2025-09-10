@@ -29,7 +29,7 @@ sudo -s
 ```
 
 ```bash
-wget -O install_xray_gaming_optimized.sh "https://raw.githubusercontent.com/AviterX/Bash-Xray-Gaming/refs/heads/main/gaming_xray_install.sh"
+wget -O gaming_xray_install.sh "https://raw.githubusercontent.com/AviterX/Bash-Xray-Gaming/refs/heads/main/gaming_xray_install.sh"
 ```
 
 ```bash
